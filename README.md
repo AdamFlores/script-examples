@@ -1,1 +1,4 @@
-Here are sample scripts for my site https://nvjob.pro.
+Resources for my sites.
+
+http://nvjob.pro
+http://nvjob.dx.am
