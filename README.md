@@ -1,4 +1,4 @@
-Resources for my sites.
+Resources for my sites:
 
 http://nvjob.pro
 
